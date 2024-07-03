@@ -111,7 +111,8 @@ This is the directory structure of the `quiz-app` project. It includes the follo
 
 # Planned Updates
 
-- **Adding New Categories:** Modify the `Category.java` file to include new categories and questions.
+- **Adding New Categories:** Modify the `Services.java` file to include new categories and questions.
+- **Share User Created Quiz:** Update the application for sharing user created quizes.
 - **Inter Shuffling:** Modify the `Main.java` file to include inter shuffling function on user defined category.
 - **Enhancing ASCII Art:** Update the ASCII art in the `Main.java` file for a more engaging user experience.
 - **Extending Functionality:** Add new features or improve existing ones by modifying the respective Java files.
@@ -123,7 +124,7 @@ This is the directory structure of the `quiz-app` project. It includes the follo
 Delete or modify the `quizData.dat` file to reset your quiz progress.
 
 **Can I share my custom quizzes with others?**
-Yes, share the `quizData.dat` file with others to allow them to play your custom quizzes.
+No, currently sharing the quizzes is not available, will update in the future enabling quiz sharing with others to allow them to play your custom quizzes.
 
 **How do I report a bug or suggest a feature?**
 Open an issue on the project's GitHub repository.
