@@ -30,7 +30,7 @@ The Command Line Quiz Application is a Java-based program designed to provide an
 ## System Requirements
 - **Java Development Kit (JDK):** Version 8 or higher. To check whether java is installed or not.
   ```sh
-  java -v
+  java --version
 - **Operating System:** Windows or Linux.
 
 ## Installation
