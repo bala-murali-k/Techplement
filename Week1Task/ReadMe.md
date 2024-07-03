@@ -94,14 +94,6 @@ Enter the number corresponding to your desired category.
 
 # File Structure
 
-quiz-app/
-│
-├── Main.java
-├── Services.java
-├── Quiz.java
-├── quizData.dat
-└── Userchoice.java
-
 This is the directory structure of the `quiz-app` project. It includes the following Java source files:
 - `Main.java`
 - `Services.java`
